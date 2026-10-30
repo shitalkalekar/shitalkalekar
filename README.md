@@ -89,12 +89,7 @@
 - Machine Learning with Python: freeCodeCamp (Nov 2024)
 - Red Hat AI Foundations Executive Certificate (Nov 2025)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shitalkalekar&show_icons=true&theme=tokyonight&hide_border=true" alt="Shital's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shitalkalekar&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-</p>
+## 📊 Contributions
 
 <p align="center">
   <picture>
