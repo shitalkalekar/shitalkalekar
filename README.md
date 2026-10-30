@@ -66,8 +66,8 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🏪 Store Management System · [Live Demo](ADD_LIVE_DEMO_URL) | Full-stack application for managing products, inventory, categories, and store operations. Includes CRUD operations and frontend-backend integration. | React.js · Node.js · Express.js · MongoDB · REST APIs · Axios |
-| 🌾 Feed & Flour Mill Management System · [Live Demo](ADD_LIVE_DEMO_URL) | Application designed to streamline inventory tracking, product management, and day-to-day feed and flour mill operations. Includes validation and secure password hashing. | Next.js · React.js · TypeScript · MongoDB · Mongoose · Tailwind CSS |
+| 🏪 Store Management System · [Live Demo](https://tammewar-pharmacy.pages.dev/) | Full-stack application for managing products, inventory, categories, and store operations. Includes CRUD operations and frontend-backend integration. | React.js · Node.js · Express.js · MongoDB · REST APIs · Axios |
+| 🌾 Feed & Flour Mill Management System · [Live Demo](https://feed-and-flour-mill-management-production.up.railway.app/) | Application designed to streamline inventory tracking, product management, and day-to-day feed and flour mill operations. Includes validation and secure password hashing. | Next.js · React.js · TypeScript · MongoDB · Mongoose · Tailwind CSS |
 | ⚖️ AI for Legal Case Outcome Prediction | AI-driven system that processes legal documents and predicts case outcomes using BERT/Legal-BERT and machine learning, with SHAP-based explanations. | Python · BERT / Legal-BERT · RAG · OpenAI API · SHAP |
 | 🤟 Sign Language Recognition | Real-time sign language recognition project using machine learning and computer vision to interpret hand gestures from a camera feed. | Python · Machine Learning · Computer Vision |
 | 🍕 Zomato Landing Page Clone | Frontend landing page project inspired by a food discovery and ordering platform. | HTML · CSS |
