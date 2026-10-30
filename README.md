@@ -115,8 +115,19 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/shital-kalekar-801452362/">LinkedIn</a> •
-  <a href="mailto:shitalkalekar05@gmail.com">Email</a> •
-  <a href="https://shital-portfolio-v2.vercel.app/">Portfolio</a> •
-  <a href="https://github.com/shitalkalekar">GitHub</a>
+  <a href="https://linkedin.com/in/shital-kalekar-801452362/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="22" alt="LinkedIn" align="center"/>&nbsp;LinkedIn
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:shitalkalekar05@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="22" alt="Email" align="center"/>&nbsp;Email
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://shital-portfolio-v2.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" height="22" alt="Portfolio" align="center"/>&nbsp;Portfolio
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/shitalkalekar">
+    <img src="https://skillicons.dev/icons?i=github" height="22" alt="GitHub" align="center"/>&nbsp;GitHub
+  </a>
 </p>
